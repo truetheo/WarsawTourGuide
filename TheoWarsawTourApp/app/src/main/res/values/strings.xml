@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TheoWarsawTourApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dworzecOpis">A place where trains come and go. Nothing realy exciting</string>
+    <string name="galeriaMokotowName">Galeria Mokotów</string>
+    <string name="galeriaMokotowLoc">Wolowska 12,  Mokotow</string>
+    <string name="galeriaMokotowDesc">Galeria Mokotów is a shopping center in the Mokotów borough of Warsaw.\n
+Phase 1 opened in 2000, with approximately 48,000 square metres of retail space.\nIt has subsequently been expanded to over 62,000 square metres.[1] It was the first modern generation mall (shopping plus leisure activities) in the Warsaw metropolitan area</string>
+    <string name="palacWilanowName">Palac w Wilanowie</string>
+    <string name="palacWilanowLoc">Stanislawa Kostki Potockiego 10/16</string>
+    <string name="palacWilanowDesc">Wilanów Palace or Wilanowski Palace is a royal palace located in the Wilanów district, Warsaw.\n
+        Wilanów Palace survivedPoland\'s partitions and both World Wars, and so serves as a reminder of the culture of the Polish state as it was before the misfortunes of the 18th century.</string>
+    <string name="lazienkiKrolewskieName">Palac na wyspie</string>
+    <string name="lazienkiKrolewskieLoc">01-999, Warszawa</string>
+    <string name="lazienkiKrolewskieDesc">The Lazienki Palace in English, the Baths Palace also called the Palace on the Water and the Palace on the Isle) is a classicist palace in Warsaw\'s Royal Baths Park, the city\'s largest park, occupying over 76 hectares of the city center.</string>
+    <string name="stareMiastoName">Stare Miasto</string>
+    <string name="stareMiastoLoc">Srodmiescie, Warszawa</string>
+    <string name="stareMiastoDesc">The Warsaw Old Town is the oldest part of the capital city. It is bounded by the Wybrzeże Gdańskie, along with the bank of Vistula river, Grodzka, Mostowa and Podwale Streets. It is one of the most prominent tourist attractions in Warsaw.</string>
+    <string name="zamekKrolewskiName">Zamek Krolewski</string>
+    <string name="zamekKrolewskiLoc">plac Zamkowy 4</string>
+    <string name="zamekKrolewskiDesc">The Royal Castle in Warsaw is a castle residency that formerly served throughout the centuries as the official residence of the Polish monarchs. It is located in the Castle Square, at the entrance to the Warsaw Old Town. The personal offices of the king and the administrative offices of the Royal Court of Poland were located there from the sixteenth century until the Partitions of Poland.</string>
+    <string name="centrumNaukiName">Centrum Nauki Kopernik</string>
+    <string name="centrumNaukiLoc">Wybrzeze Kosciuszkowskie 20</string>
+    <string name="centrumNaukiDesc">Copernicus Science Centre is a science museum standing on the bank of the Vistula River in Warsaw, Poland.[2] It contains over 450 interactive exhibits that enable visitors to single-handedly carry out experiments and discover the laws of science for themselves. The Centre is the largest institution of its type in Poland and one of the most advanced in Europe. In 2015 it has been visited by over 5 million people since its opening.</string>
+    <string name="POLINName">Muzeum Historii Zydow Polskich</string>
+    <string name="POLINLoc">Anielewicza</string>
+    <string name="POLINDesc">POLIN Museum of the History of Polish Jews (Polish: Muzeum Historii Żydów Polskich) is a museum on the site of the former Warsaw Ghetto. The Hebrew word Polin in the museum\'s name means, in English, either \"Poland\" or \"rest here\" and is related to a legend on the arrival of the first Jews in Poland.</string>
+    <string name="mPowstaniaWarName">Muzeum Powstania Warszawskiego</string>
+    <string name="mPowstaniaWarLoc">Grzybowska 79</string>
+    <string name="mPowstaniaDesc">The Warsaw Uprising Museum (named Warsaw Rising Museum, Polish: Muzeum Powstania Warszawskiego), in the Wola district of Warsaw, Poland, is dedicated to the Warsaw Uprising of 1944. The institution of the museum was established in 1983, but no construction work took place for many years. It opened on July 31, 2004, marking the 60th anniversary of the uprising.</string>
+    <string name="mNarodoweName">Muzeum Narodowe</string>
+    <string name="mNarodoweLoc">aleje Jerozolimskie 3</string>
+    <string name="mNarodoweDesc">The National Museum in Warsaw (Polish: Muzeum Narodowe w Warszawie), popularly abbreviated as MNW, is a national museum in Warsaw, one of the largest museums in Poland and the largest in the capital. It comprises a rich collection of ancient art (Egyptian, Greek, Roman), counting about 11,000 pieces, an extensive gallery of Polish painting since the 16th century and a collection of foreign painting (Italian, French, Flemish, Dutch, German and Russian) including some paintings from Adolf Hitler\'s private collection, ceded to the Museum by the American authorities in post-war Germany.</string>
+    <string name="arkadiaName">Centrum Handlowe Arkadia</string>
+    <string name="arkadiaLoc">Aleja Jana Pawla II 82</string>
+    <string name="arkadiaDesc">Arkadia in Warsaw, Poland is the largest shopping complex in Central Europe (as of 2007). In total it has 287,000 square metres (3,100,000 sq ft) of space, 230 shops, 25 restaurants, and a movie theater. It is owned and operated by Unibail-Rodamco.</string>
+    <string name="teatrNarodowyName">Teatr Narodowy</string>
+    <string name="teatrNarodowyLoc">Plac Teatralny</string>
+    <string name="teatrNarodowyDesc">The National Theatre (Teatr Narodowy) in Warsaw, Poland, was founded in 1765, during the Polish Enlightenment, by that country\'s last monarch, Stanisław August Poniatowski. The theatre shares the Grand Theatre complex at the Theatre Square in Warsaw with another national venue, the Poland\'s National Opera.</string>
+    <string name="pomnikMalyName">Pomnik Malego Powstanca</string>
+    <string name="pomnikMalyLoc">Podwale</string>
+    <string name="pomnikMalyDesc">Mały Powstaniec (the \"Little Insurrectionist\") is a statue in commemoration of the child soldiers who fought and died during the Warsaw Uprising of 1944. It is located on Podwale Street, next to the ramparts of Warsaw\’s Old Town.</string>
+    <string name="kampinosName">Kampinoski Park Narodowy</string>
+    <string name="kampinosLoc">Kazimierza Tetmajera 38</string>
+    <string name="kampinosDesc">Kampinos Forest (Polish: Puszcza Kampinoska) is a large forest complex located in Masovian Voivodeship, west of Warsaw in Poland.
+It covers a part of the ancient valley of the Vistula basin, between the Vistula and the Bzura rivers.
+Once a forest covering 670 km² of central Poland, it currently covers roughly 240 km².</string>
+    <string name="cudaNaKiju">Cuda na Kiju</string>
+    <string name="cudaNaKijuLoc">Nowy Swiat 6/12</string>
+    <string name="cudaNaKijuRat">4,6/5</string>
+    <string name="SpiwkowcyRzkoszy">Spiwkowcy Rozkoszy</string>
+    <string name="SpiwkowcyRzkoszyLoc">Zurawia 42</string>
+    <string name="SpiwkowcyRzkoszyRat">4,4/5</string>
+    <string name="PiwPaw">PiwPaw</string>
+    <string name="PiwPawLoc">Zurawia 32</string>
+    <string name="PiwPawRat">4,3/5</string>
+    <string name="Hoppiness">Hoppiness</string>
+    <string name="HoppinessLoc">Chmielna 27</string>
+    <string name="HoppinessRat">4,5/5</string>
+    <string name="chmielarnia">Chmielarnia</string>
+    <string name="chmielarniaLoc">Twarda 42</string>
+    <string name="chmielarniaRat">4,4/5</string>
+    <string name="elephant">Elephant</string>
+    <string name="elephantLoc">Freta 19</string>
+    <string name="elephantRat">4,3/5</string>
+</resources>

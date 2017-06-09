@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the places category -->
+    <color name="category_places">#Deadca</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#eb9909</color>
+
+    <!-- Background color for the beer pubs category -->
+    <color name="category_beer">#980642</color>
+
+    <!-- Background color for the other category -->
+    <color name="category_other">#ff3737</color>
+    <color name="generalTextColor">#FFFFFF</color>
+</resources>
